@@ -6,7 +6,7 @@
     /* Postscript name */
     local("Iosevka-regular"),
     /* Otherwise, download it */
-    url(../assets/font/iosevka-term-regular.ttf);
+    url(../font/iosevka-term-regular.ttf);
 }
 
 *,
